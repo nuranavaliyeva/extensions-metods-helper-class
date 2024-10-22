@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Static class, Extensions methods,  Exception, Reflection/1.0.0": {
+        "runtime": {
+          "Static class, Extensions methods,  Exception, Reflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Static class, Extensions methods,  Exception, Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
